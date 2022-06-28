@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dheerajlawaiya.github.io/csb-iwqccv/static/css/main.cd947c89.chunk.css",
+    "main.js": "https://dheerajlawaiya.github.io/csb-iwqccv/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://dheerajlawaiya.github.io/csb-iwqccv/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://dheerajlawaiya.github.io/csb-iwqccv/static/js/runtime-main.578375bc.js",
+    "runtime-main.js.map": "https://dheerajlawaiya.github.io/csb-iwqccv/static/js/runtime-main.578375bc.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://dheerajlawaiya.github.io/csb-iwqccv/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://dheerajlawaiya.github.io/csb-iwqccv/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://dheerajlawaiya.github.io/csb-iwqccv/index.html",
+    "static/css/main.cd947c89.chunk.css.map": "https://dheerajlawaiya.github.io/csb-iwqccv/static/css/main.cd947c89.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://dheerajlawaiya.github.io/csb-iwqccv/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.578375bc.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.cd947c89.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
